@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+:root {
+    --body-color: hsl(257, 40%, 49%);
+    --buttun-color:hsl(300, 69%, 71%);
+}
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header a img {
+    height:3.3rem ;
+    width: auto;
+
+
+
+}
+
+
+body {
+    background-color: var(--body-color);
+    background-image: url("../images/bg-desktop.svg");
+    background-repeat: no-repeat;
+}
+main{
+    display: flex;
+    align-items: center;
+    /* flex-wrap: wrap; */
+
+}
+main img{
+    width: 42rem;
+}
+
+h1,article p{
+    color: aliceblue;
+}
+button{
+    font-size: small;
+    color: darkgrey;
+    border: none;
+    border-radius: 2rem;
+    width: 7rem;
+    height: 2rem;
+    transition: background-color 0.5s ease;
+    transition: color 0.5s ease;
+}
+button:hover{
+    color: aliceblue;
+    background-color:var(--buttun-color) ;
+    transition: background-color 0.5s ease;
+    transition: color 0.5s ease;}
+
+
+
