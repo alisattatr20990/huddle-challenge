@@ -2,8 +2,6 @@
 
 A modern, responsive landing page built as part of a frontend development challenge. This project focuses on implementing a clean UI with professional layouts using Bootstrap and custom CSS.
 
-## 🚀 Live Demo
-You can view the live website here: [Your GitHub Pages Link Goes Here]
 
 ## 🛠️ Built With
 - **HTML5**: Semantic structure.
@@ -23,4 +21,4 @@ You can view the live website here: [Your GitHub Pages Link Goes Here]
 - `index.html`: The main entry point of the website.
 
 ## 👤 Author
-- Your Name: [alisattatr20990]
+alisattatr20990
